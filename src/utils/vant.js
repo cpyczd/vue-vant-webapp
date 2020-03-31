@@ -85,3 +85,4 @@ export var vantModule = {
     toast
 }
 Vue.prototype.$vant = vantModule;
+Vue.prototype.$toast = Toast;

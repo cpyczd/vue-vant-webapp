@@ -5,6 +5,7 @@ import store from './store'
 import http from "./utils/axios"
 import '@/assets/scss/index.scss'
 import '@/utils/vant'
+import 'vant/lib/index.css';
 
 import FastClick from 'fastclick'
 FastClick.attach(document.body)
