@@ -17,4 +17,4 @@ Vw 适配移动端 模板框架
 #### 使用说明
 
 1.  npm install
-2.  npm run dev
+2.  npm run serve
